@@ -1,0 +1,21 @@
+.Renta__hero {
+  width: 100%;
+  padding: 2rem 0;
+  background: url('../../static/fondo-renta.jpg'), #ffffff;
+  background-repeat: no-repeat;
+  margin-bottom: 1rem;
+  background-size: 100% auto;
+}
+
+.Renta__container{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.Renta__section{
+  /* display: flex;
+  flex-direction: column;
+  justify-content: space-around; */
+  max-width: 40%;
+}
